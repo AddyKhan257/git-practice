@@ -1,4 +1,4 @@
 1- git remote -v 
 #(used to show the remote url)
 2-git remote set-url origin ....The ssh or hhtps you want to set
-#(used to set url
+#(used to set url)
