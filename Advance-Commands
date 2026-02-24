@@ -3,3 +3,4 @@
 2-git remote set-url origin ....The ssh or hhtps you want to set
 #(used to set url)
 3- git stash and git stash pop
+4- git cherry-pick (commit id)
