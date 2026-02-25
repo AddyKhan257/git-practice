@@ -5,3 +5,4 @@
 3- git stash and git stash pop
 4- git cherry-pick (commit id)
 5- git revert (id)
+6- git reset --soft (id from that you want to remove commit history)
