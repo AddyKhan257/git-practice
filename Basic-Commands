@@ -1,3 +1,9 @@
-1- git status 
-2- git log
-3- git log --online
+ git status 
+ git log
+ git log --online
+ git add (untracked file name)
+ git add . (to add all untracked file)
+ git commit -m "message/tags"
+
+
+
