@@ -4,6 +4,6 @@
  git add (untracked file name)
  git add . (to add all untracked file)
  git commit -m "message/tags"
-
+ git branch
 
 
