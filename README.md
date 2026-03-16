@@ -1,1 +1,1 @@
-This repo is for the git commands i added all the git commands in this repo  that i ever been learned
+This repo is for the git commands that I  added all the git commands in this repo  that i ever been learned 
