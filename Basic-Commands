@@ -5,5 +5,7 @@
  git add . (to add all untracked file)
  git commit -m "message/tags"
  git branch
+ git push origin (branch)
+ git pull --rebase
 
 
